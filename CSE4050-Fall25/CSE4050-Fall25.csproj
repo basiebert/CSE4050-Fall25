@@ -123,6 +123,8 @@
     <Content Include="FirstFile.html" />
     <Content Include="Global.asax" />
     <Content Include="mychapter2\blockquote.html" />
+    <Content Include="mychapter2\blog.html" />
+    <Content Include="mychapter2\casita.html" />
     <Content Include="mychapter2\description.html" />
     <Content Include="mychapter2\design.html" />
     <Content Include="mychapter2\heading.html" />
@@ -130,6 +132,7 @@
     <Content Include="mychapter2\linebreak.html" />
     <Content Include="mychapter2\ol.html" />
     <Content Include="mychapter2\paragraph.html" />
+    <Content Include="mychapter2\structure.html" />
     <Content Include="mychapter2\ul.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
